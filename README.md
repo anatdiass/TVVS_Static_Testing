@@ -2,6 +2,8 @@
 
 ## Static Testing
 
+Made in colaboration with @MariaCaldeira99
+
 ### Documentation
 Materials used during practical class (installation guide, presentation and practical exercises) can be accessed [here](https://github.com/anatdiass/TVVS_Static_Testing/tree/main/docs).
 
