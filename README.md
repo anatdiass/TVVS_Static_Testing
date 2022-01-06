@@ -2,7 +2,7 @@
 
 ## Static Testing
 
-Made in colaboration with @MariaCaldeira99
+Made in colaboration with <a href="https://github.com/MariaCaldeira99">@MariaCaldeira99</a>
 
 ### Documentation
 Materials used during practical class (installation guide, presentation and practical exercises) can be accessed [here](https://github.com/anatdiass/TVVS_Static_Testing/tree/main/docs).
